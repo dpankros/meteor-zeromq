@@ -1,7 +1,7 @@
 #ZeroMQ
 
 
-This package extends [ØMQ](http://www.zeromq.org/) support for meteor through the [node zmq bindings](https://github.com/JustinTulloss/zeromq.node) by Justin Tulloss.
+This package extends [ØMQ](http://www.zeromq.org/) support for [meteor](http://meteor.com) through the [node zmq bindings](https://github.com/JustinTulloss/zeromq.node) by Justin Tulloss.
 
 This package exposes a single global server-side object named ZeroMQ.  Everything else is as it is in Justin's package.  The environment running the package is **required** to have the ZeroMQ libraries installed.
    
